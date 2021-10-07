@@ -1,2 +1,1 @@
-# Primeiro Projeto
- Java Script
+Curso Java Scrip!
